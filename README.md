@@ -14,7 +14,7 @@ Starting boilerplate of [Strapi](https://strapi.io/) application
 make setup
 make start
 ```
-
+w
 ## Run tests
 
 ```sh
